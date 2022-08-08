@@ -1,0 +1,17 @@
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\bin\Debug\net6.0-windows\ControlDeVentas.exe
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\bin\Debug\net6.0-windows\ControlDeVentas.deps.json
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\bin\Debug\net6.0-windows\ControlDeVentas.runtimeconfig.json
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\bin\Debug\net6.0-windows\ControlDeVentas.dll
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\bin\Debug\net6.0-windows\ControlDeVentas.pdb
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.csproj.AssemblyReference.cache
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.frmVentas.resources
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.csproj.GenerateResource.cache
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.GeneratedMSBuildEditorConfig.editorconfig
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.AssemblyInfoInputs.cache
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.AssemblyInfo.cs
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.csproj.CoreCompileInputs.cache
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.dll
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\refint\ControlDeVentas.dll
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.pdb
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ControlDeVentas.genruntimeconfig.cache
+D:\reposc#\ControlDeVentasPOO\ControlDeVentas\ControlDeVentas\obj\Debug\net6.0-windows\ref\ControlDeVentas.dll
